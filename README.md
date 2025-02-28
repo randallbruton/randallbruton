@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Randall Bruton! 👋
 
-<!--
-**randallbruton/randallbruton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Aspiring Data Analyst | SQL | Python | Tableau**  
+🎓 **Master’s in Cybersecurity & Data Analytics (UT Tyler)**  
+📊 Passionate about **data-driven insights, automation, and visualization**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Data Analytics Journey:
+- 📌 **Currently Learning:** Google Data Analytics Certification, Advanced SQL, ETL Pipelines
+- 📈 **Working On:** Real-world data projects (Check my repos below!)
+- 💡 **Looking For:** Networking, collaborations, and job opportunities in Data Analytics
+- 📫 **Connect With Me:** [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+
+---
+
+### 🛠️ Skills & Tools:
+💻 **Languages:** Python, SQL, R  
+📊 **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
+⚡ **Other:** Excel, Jupyter Notebooks, Google Sheets  
+
+---
+
+### 📂 My Projects:
+🔹 **[Project 1 Name](#)** → SQL + Python + Tableau  
+🔹 **[Project 2 Name](#)** → Web Scraping + Pandas  
+🔹 **[Project 3 Name](#)** → ETL Pipeline + Data Engineering  
+
+---
+
+### 📖 Latest Blog Posts:
+- 📝 **[How I Built a Data Dashboard Using SQL & Tableau](#)**  
+- 📝 **[5 Essential SQL Queries Every Data Analyst Must Know](#)**  
+
+---
