@@ -10,7 +10,7 @@
 - 📌 **Currently Learning:** Google Data Analytics Certification, Advanced SQL, ETL Pipelines
 - 📈 **Working On:** Real-world data projects (Check my repos below!)
 - 💡 **Looking For:** Networking, collaborations, and job opportunities in Data Analytics
-- 📫 **Connect With Me:** [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+- 📫 **Connect With Me:** [LinkedIn](https://www.linkedin.com/in/randall-bruton)  
 
 ---
 
